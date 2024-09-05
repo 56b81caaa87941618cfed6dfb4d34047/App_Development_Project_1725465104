@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a title",
+        "timestamp": "05092024064843",
+        "message_id": "guest05092024064843"
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing header with a custom font\", \"checked\": true}, {\"feature\": \"Include an eye-catching subtitle below the title\", \"checked\": false}, {\"feature\": \"Use an engaging background image for the title section\", \"checked\": false}, {\"feature\": \"Implement a centered alignment for the title\", \"checked\": true}, {\"feature\": \"Add an animation effect for the title on page load\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 104, \"time_taken\": \"0:00:01.113098\"}",
         "timestamp": "05092024063605",
