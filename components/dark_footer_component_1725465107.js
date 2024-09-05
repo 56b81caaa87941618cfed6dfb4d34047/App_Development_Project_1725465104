@@ -13,6 +13,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
       <h1 class="text-4xl font-bold text-center text-purple-600 mb-8 pt-12">Connect With Us</h1>
       <h1 class="text-4xl font-bold text-center text-purple-600 mb-8 pt-12">Connect With Us</h1>
       <h2 class="text-3xl font-bold text-center text-purple-600 mb-8 pt-8">Stay Connected</h2>
+      <p class="text-xl text-center text-gray-600 mb-12">Join our community and stay updated with the latest news</p>
       <!-- Blocks -->
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
