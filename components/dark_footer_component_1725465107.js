@@ -10,8 +10,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 <template>
   <footer id="footer-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
-      <h1 class="text-4xl font-bold text-center text-purple-600 mb-8 pt-12">Connect With Us</h1>
-      <h1 class="text-4xl font-bold text-center text-purple-600 mb-8 pt-12">Connect With Us</h1>
+      <h1 class="text-5xl font-bold text-center text-purple-600 mb-4 pt-12">Welcome to Our Amazing App</h1>
+      <h2 class="text-2xl font-semibold text-center text-gray-600 mb-8">Discover a World of Possibilities</h2>
       <h2 class="text-3xl font-bold text-center text-purple-600 mb-4 pt-8">Stay Connected</h2>
       <p class="text-xl text-center text-gray-600 mb-8">Join our community and stay updated with the latest news</p>
       <div class="max-w-3xl mx-auto mb-12">
