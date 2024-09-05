@@ -8,6 +8,30 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing title at the top of the app\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Allow customization of title font and color\", \"checked\": false}, {\"feature\": \"Add a logo next to the title for branding\", \"checked\": false}, {\"feature\": \"Make the title responsive to different screen sizes\", \"checked\": true}], \"input_token_count\": 273, \"output_token_count\": 102, \"time_taken\": \"0:00:01.867541\"}",
+        "message_id": "guest05092024071224",
+        "timestamp": "05092024071233",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The conversation began with the user requesting to \"add a nice title\" for an app. The AI assistant responded affirmatively, saying, \"Sure, I'll add an appealing title for you.\" Subsequently, the AI posed two questions to the user regarding their preferences for the title. The first question asked what specific text the title should display, offering two options: \"A creative title that reflects the app's purpose\" and \"A simple and straightforward title.\" The second question inquired about preferences for the title's font style or size, again providing two choices: \"I want it to be bold and large\" or \"I prefer a sleek and modern font.\" The AI noted the input and output token counts and the time taken for processing, ensuring a clear understanding of the user's requests and preferences.",
+        "timestamp": "05092024071233",
+        "message_id": "guest05092024071224"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the title (e.g., bold, italic, a specific font)?\", \"option1\": \"Bold and modern\", \"option2\": \"Elegant and cursive\"}, {\"question 2\": \"Where would you like the title positioned in the app (e.g., top, center, bottom)?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 319, \"output_token_count\": 101, \"time_taken\": \"0:00:01.548016\"}",
+        "message_id": "guest05092024071224",
+        "timestamp": "05092024071230",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a nice title",
         "message_id": "guest05092024071224",
@@ -24,12 +48,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "add a nice title",
-        "timestamp": "05092024071225",
-        "message_id": "guest05092024071224"
     },
     {
         "role": "chat_ui_checklist",
@@ -73,24 +91,6 @@
         "message_id": "guest05092024063557",
         "timestamp": "05092024063605",
         "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like the title to display?\", \"option1\": \"A creative title that reflects the app's purpose\", \"option2\": \"A simple and straightforward title\"}, {\"question 2\": \"Do you have any preferences for the title's font style or size?\", \"option1\": \"I want it to be bold and large\", \"option2\": \"I prefer a sleek and modern font\"}], \"input_token_count\": 282, \"output_token_count\": 99, \"time_taken\": \"0:00:01.893080\"}",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063602",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll add an appealing title for you.",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063558",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
