@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of copy are you envisioning for your app?\", \"option1\": \"A creative and engaging copy\", \"option2\": \"A concise and informative copy\"}, {\"question 2\": \"Where would you like the copy to be positioned?\", \"option1\": \"Above the main content\", \"option2\": \"Integrated within the main content area\"}], \"input_token_count\": 534, \"output_token_count\": 84, \"time_taken\": \"0:00:01.645223\"}",
+        "message_id": "guest05092024080407",
+        "timestamp": "05092024080415",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll work on adding a nice copy for you.",
         "message_id": "guest05092024080407",
