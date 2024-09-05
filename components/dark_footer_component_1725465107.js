@@ -10,6 +10,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 <template>
   <footer id="footer-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+      <h2 class="text-3xl font-bold text-center text-purple-600 mb-8 pt-8">Stay Connected</h2>
+      <!-- Blocks -->
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
         <!-- 1st block -->
