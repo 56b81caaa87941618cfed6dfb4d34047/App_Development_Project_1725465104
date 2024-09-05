@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add an appealing title for you.",
+        "timestamp": "05092024063558",
+        "message_id": "guest05092024063557"
+    },
+    {
         "role": "user",
         "content": "add a nice title",
         "timestamp": "05092024063557",
