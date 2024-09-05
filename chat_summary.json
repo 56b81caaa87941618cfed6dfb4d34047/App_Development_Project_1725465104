@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing header with a custom font\", \"checked\": true}, {\"feature\": \"Include an eye-catching subtitle below the title\", \"checked\": false}, {\"feature\": \"Use an engaging background image for the title section\", \"checked\": false}, {\"feature\": \"Implement a centered alignment for the title\", \"checked\": true}, {\"feature\": \"Add an animation effect for the title on page load\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 104, \"time_taken\": \"0:00:01.113098\"}",
+        "timestamp": "05092024063605",
+        "message_id": "guest05092024063557"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like the title to display?\", \"option1\": \"A creative title that reflects the app's purpose\", \"option2\": \"A simple and straightforward title\"}, {\"question 2\": \"Do you have any preferences for the title's font style or size?\", \"option1\": \"I want it to be bold and large\", \"option2\": \"I prefer a sleek and modern font\"}], \"input_token_count\": 282, \"output_token_count\": 99, \"time_taken\": \"0:00:01.893080\"}",
         "timestamp": "05092024063602",
