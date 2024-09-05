@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a nice title\nAI: Sure, I\u2019ll add a title for you.\nUser: add a title\nAI: Sure, I'll add an appealing title for you.\nUser: add a nice title\n\nThis is the user's current request of changes to be made:\nadd a nice title"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe conversation began with the user requesting to \"add a nice title\" for an app. The AI assistant responded affirmatively, saying, \"Sure, I'll add an appealing title for you.\" Subsequently, the AI posed two questions to the user regarding their preferences for the title. The first question asked what specific text the title should display, offering two options: \"A creative title that reflects the app's purpose\" and \"A simple and straightforward title.\" The second question inquired about preferences for the title's font style or size, again providing two choices: \"I want it to be bold and large\" or \"I prefer a sleek and modern font.\" The AI noted the input and output token counts and the time taken for processing, ensuring a clear understanding of the user's requests and preferences.\nUser: add a nice title\nAI: Okay, I'll add a nice title for you.\nAI: Sure, I\u2019ll add a title for you.\nUser: add a title\n\nThis is the user's current request of changes to be made:\nadd me a nice subtitle"
     }
 ]
