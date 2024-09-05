@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text should the subtitle display?\", \"option1\": \"A descriptive subtitle that elaborates on the app's mission\", \"option2\": \"A catchy subtitle that engages users immediately\"}, {\"question 2\": \"What style do you envision for the subtitle?\", \"option1\": \"I want it to be italicized and stylish\", \"option2\": \"I prefer it to be simple and easy to read\"}], \"input_token_count\": 471, \"output_token_count\": 98, \"time_taken\": \"0:00:01.040960\"}",
+        "message_id": "guest05092024074847",
+        "timestamp": "05092024074851",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add me a nice subtitle",
         "message_id": "guest05092024074847",
