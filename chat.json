@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific wording would you like for the title?\", \"option1\": \"A catchy and creative title\", \"option2\": \"A straightforward and descriptive title\"}, {\"question 2\": \"Where would you like the title to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"Centered in the main content area\"}], \"input_token_count\": 299, \"output_token_count\": 89, \"time_taken\": \"0:00:01.504391\"}",
+        "message_id": "guest05092024064843",
+        "timestamp": "05092024064848",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019ll add a title for you.",
         "message_id": "guest05092024064843",
