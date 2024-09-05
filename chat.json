@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "a nice title",
+        "message_id": "guest05092024081216",
+        "timestamp": "05092024081216",
+        "component_file_name": "dark_footer_component_1725465107",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I\u2019d be happy to help, please provide the details for your project.",
         "message_id": "guest05092024081139",
