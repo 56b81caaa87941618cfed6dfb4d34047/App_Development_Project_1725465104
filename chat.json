@@ -1,244 +1,256 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1725465107",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a creative and engaging subtitle\", \"checked\": true}, {\"feature\": \"Implement dynamic font size adjustments for the title\", \"checked\": false}, {\"feature\": \"Include an option for a background color behind the title\", \"checked\": false}, {\"feature\": \"Create a shadow effect for the title to enhance visibility\", \"checked\": false}, {\"feature\": \"Add an animated entrance for the title on app load\", \"checked\": false}], \"input_token_count\": 479, \"output_token_count\": 105, \"time_taken\": \"0:00:01.229794\"}",
-        "message_id": "guest05092024081216",
-        "timestamp": "05092024081224",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for your subtitle?\", \"option1\": \"Catchy and engaging\", \"option2\": \"Informative and straightforward\"}, {\"question 2\": \"Where would you like the subtitle to be positioned in relation to the title?\", \"option1\": \"Directly below the title\", \"option2\": \"At the top of the screen\"}], \"input_token_count\": 525, \"output_token_count\": 87, \"time_taken\": \"0:00:01.534670\"}",
-        "message_id": "guest05092024081216",
-        "timestamp": "05092024081221",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Let's brainstorm a fitting title for your project.",
-        "message_id": "guest05092024081216",
-        "timestamp": "05092024081217",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
+        "id": "guest05092024063557",
+        "timestamp": "2024-09-05T06:35:57",
         "role": "user",
-        "content": "a nice title",
-        "message_id": "guest05092024081216",
-        "timestamp": "05092024081216",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I\u2019d be happy to help, please provide the details for your project.",
-        "message_id": "guest05092024081139",
-        "timestamp": "05092024081141",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "give a nice coyp",
-        "message_id": "guest05092024081139",
-        "timestamp": "05092024081140",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a descriptive paragraph below the title\", \"checked\": true}, {\"feature\": \"Include a call-to-action button\", \"checked\": false}, {\"feature\": \"Implement a quote or testimonial section\", \"checked\": false}, {\"feature\": \"Utilize bullet points for key features\", \"checked\": false}, {\"feature\": \"Add a background color for the copy section\", \"checked\": true}], \"input_token_count\": 488, \"output_token_count\": 95, \"time_taken\": \"0:00:01.191646\"}",
-        "message_id": "guest05092024080407",
-        "timestamp": "05092024080418",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of copy are you envisioning for your app?\", \"option1\": \"A creative and engaging copy\", \"option2\": \"A concise and informative copy\"}, {\"question 2\": \"Where would you like the copy to be positioned?\", \"option1\": \"Above the main content\", \"option2\": \"Integrated within the main content area\"}], \"input_token_count\": 534, \"output_token_count\": 84, \"time_taken\": \"0:00:01.645223\"}",
-        "message_id": "guest05092024080407",
-        "timestamp": "05092024080415",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll work on adding a nice copy for you.",
-        "message_id": "guest05092024080407",
-        "timestamp": "05092024080409",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a nice copy",
-        "message_id": "guest05092024080407",
-        "timestamp": "05092024080408",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a subtitle below the title\", \"checked\": true}, {\"feature\": \"Subtitle customization options\", \"checked\": false}, {\"feature\": \"Subtitle alignment options\", \"checked\": false}, {\"feature\": \"Subtitle font style and size selection\", \"checked\": false}, {\"feature\": \"Dynamic subtitle that changes based on user input\", \"checked\": false}], \"input_token_count\": 425, \"output_token_count\": 87, \"time_taken\": \"0:00:02.621749\"}",
-        "message_id": "guest05092024074847",
-        "timestamp": "05092024074856",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text should the subtitle display?\", \"option1\": \"A descriptive subtitle that elaborates on the app's mission\", \"option2\": \"A catchy subtitle that engages users immediately\"}, {\"question 2\": \"What style do you envision for the subtitle?\", \"option1\": \"I want it to be italicized and stylish\", \"option2\": \"I prefer it to be simple and easy to read\"}], \"input_token_count\": 471, \"output_token_count\": 98, \"time_taken\": \"0:00:01.040960\"}",
-        "message_id": "guest05092024074847",
-        "timestamp": "05092024074851",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add me a nice subtitle",
-        "message_id": "guest05092024074847",
-        "timestamp": "05092024074847",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll add a nice subtitle for you.",
-        "message_id": "guest05092024074847",
-        "timestamp": "05092024074847",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing title at the top of the app\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Allow customization of title font and color\", \"checked\": false}, {\"feature\": \"Add a logo next to the title for branding\", \"checked\": false}, {\"feature\": \"Make the title responsive to different screen sizes\", \"checked\": true}], \"input_token_count\": 273, \"output_token_count\": 102, \"time_taken\": \"0:00:01.867541\"}",
-        "message_id": "guest05092024071224",
-        "timestamp": "05092024071233",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the title (e.g., bold, italic, a specific font)?\", \"option1\": \"Bold and modern\", \"option2\": \"Elegant and cursive\"}, {\"question 2\": \"Where would you like the title positioned in the app (e.g., top, center, bottom)?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 319, \"output_token_count\": 101, \"time_taken\": \"0:00:01.548016\"}",
-        "message_id": "guest05092024071224",
-        "timestamp": "05092024071230",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
+        "source": "user",
         "content": "add a nice title",
-        "message_id": "guest05092024071224",
-        "timestamp": "05092024071225",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll add a nice title for you.",
-        "message_id": "guest05092024071224",
-        "timestamp": "05092024071225",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a main title to the app interface\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Implement customizable title fonts and colors\", \"checked\": false}, {\"feature\": \"Create a responsive title that adjusts for different screen sizes\", \"checked\": true}, {\"feature\": \"Add an animated title transition effect\", \"checked\": false}], \"input_token_count\": 253, \"output_token_count\": 97, \"time_taken\": \"0:00:01.611281\"}",
-        "message_id": "guest05092024064843",
-        "timestamp": "05092024064851",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific wording would you like for the title?\", \"option1\": \"A catchy and creative title\", \"option2\": \"A straightforward and descriptive title\"}, {\"question 2\": \"Where would you like the title to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"Centered in the main content area\"}], \"input_token_count\": 299, \"output_token_count\": 89, \"time_taken\": \"0:00:01.504391\"}",
-        "message_id": "guest05092024064843",
-        "timestamp": "05092024064848",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I\u2019ll add a title for you.",
-        "message_id": "guest05092024064843",
-        "timestamp": "05092024064844",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a title",
-        "message_id": "guest05092024064843",
-        "timestamp": "05092024064843",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing header with a custom font\", \"checked\": true}, {\"feature\": \"Include an eye-catching subtitle below the title\", \"checked\": false}, {\"feature\": \"Use an engaging background image for the title section\", \"checked\": false}, {\"feature\": \"Implement a centered alignment for the title\", \"checked\": true}, {\"feature\": \"Add an animation effect for the title on page load\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 104, \"time_taken\": \"0:00:01.113098\"}",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063605",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like the title to display?\", \"option1\": \"A creative title that reflects the app's purpose\", \"option2\": \"A simple and straightforward title\"}, {\"question 2\": \"Do you have any preferences for the title's font style or size?\", \"option1\": \"I want it to be bold and large\", \"option2\": \"I prefer a sleek and modern font\"}], \"input_token_count\": 282, \"output_token_count\": 99, \"time_taken\": \"0:00:01.893080\"}",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063602",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
+        "id": "guest05092024063557",
+        "timestamp": "2024-09-05T06:35:58",
+        "role": "assistant",
+        "source": "base_assistant",
         "content": "Sure, I'll add an appealing title for you.",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063558",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
+        "metadata": {}
     },
     {
+        "id": "guest05092024063557",
+        "timestamp": "2024-09-05T06:36:02",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like the title to display?\", \"option1\": \"A creative title that reflects the app's purpose\", \"option2\": \"A simple and straightforward title\"}, {\"question 2\": \"Do you have any preferences for the title's font style or size?\", \"option1\": \"I want it to be bold and large\", \"option2\": \"I prefer a sleek and modern font\"}], \"input_token_count\": 282, \"output_token_count\": 99, \"time_taken\": \"0:00:01.893080\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024063557",
+        "timestamp": "2024-09-05T06:36:05",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing header with a custom font\", \"checked\": true}, {\"feature\": \"Include an eye-catching subtitle below the title\", \"checked\": false}, {\"feature\": \"Use an engaging background image for the title section\", \"checked\": false}, {\"feature\": \"Implement a centered alignment for the title\", \"checked\": true}, {\"feature\": \"Add an animation effect for the title on page load\", \"checked\": false}], \"input_token_count\": 236, \"output_token_count\": 104, \"time_taken\": \"0:00:01.113098\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024064843",
+        "timestamp": "2024-09-05T06:48:43",
         "role": "user",
+        "source": "user",
+        "content": "add a title",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024064843",
+        "timestamp": "2024-09-05T06:48:44",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Sure, I\u2019ll add a title for you.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024064843",
+        "timestamp": "2024-09-05T06:48:48",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific wording would you like for the title?\", \"option1\": \"A catchy and creative title\", \"option2\": \"A straightforward and descriptive title\"}, {\"question 2\": \"Where would you like the title to be positioned in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"Centered in the main content area\"}], \"input_token_count\": 299, \"output_token_count\": 89, \"time_taken\": \"0:00:01.504391\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024064843",
+        "timestamp": "2024-09-05T06:48:51",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a main title to the app interface\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Implement customizable title fonts and colors\", \"checked\": false}, {\"feature\": \"Create a responsive title that adjusts for different screen sizes\", \"checked\": true}, {\"feature\": \"Add an animated title transition effect\", \"checked\": false}], \"input_token_count\": 253, \"output_token_count\": 97, \"time_taken\": \"0:00:01.611281\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024071224",
+        "timestamp": "2024-09-05T07:12:25",
+        "role": "user",
+        "source": "user",
         "content": "add a nice title",
-        "message_id": "guest05092024063557",
-        "timestamp": "05092024063557",
-        "component_file_name": "dark_footer_component_1725465107",
-        "div_id": "",
-        "div_action": ""
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024071224",
+        "timestamp": "2024-09-05T07:12:25",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Okay, I'll add a nice title for you.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024071224",
+        "timestamp": "2024-09-05T07:12:30",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for the title (e.g., bold, italic, a specific font)?\", \"option1\": \"Bold and modern\", \"option2\": \"Elegant and cursive\"}, {\"question 2\": \"Where would you like the title positioned in the app (e.g., top, center, bottom)?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 319, \"output_token_count\": 101, \"time_taken\": \"0:00:01.548016\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024071224",
+        "timestamp": "2024-09-05T07:12:33",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a visually appealing title at the top of the app\", \"checked\": true}, {\"feature\": \"Include a subtitle for additional context\", \"checked\": false}, {\"feature\": \"Allow customization of title font and color\", \"checked\": false}, {\"feature\": \"Add a logo next to the title for branding\", \"checked\": false}, {\"feature\": \"Make the title responsive to different screen sizes\", \"checked\": true}], \"input_token_count\": 273, \"output_token_count\": 102, \"time_taken\": \"0:00:01.867541\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024074847",
+        "timestamp": "2024-09-05T07:48:47",
+        "role": "user",
+        "source": "user",
+        "content": "add me a nice subtitle",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024074847",
+        "timestamp": "2024-09-05T07:48:47",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Sure, I'll add a nice subtitle for you.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024074847",
+        "timestamp": "2024-09-05T07:48:51",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text should the subtitle display?\", \"option1\": \"A descriptive subtitle that elaborates on the app's mission\", \"option2\": \"A catchy subtitle that engages users immediately\"}, {\"question 2\": \"What style do you envision for the subtitle?\", \"option1\": \"I want it to be italicized and stylish\", \"option2\": \"I prefer it to be simple and easy to read\"}], \"input_token_count\": 471, \"output_token_count\": 98, \"time_taken\": \"0:00:01.040960\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024074847",
+        "timestamp": "2024-09-05T07:48:56",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a subtitle below the title\", \"checked\": true}, {\"feature\": \"Subtitle customization options\", \"checked\": false}, {\"feature\": \"Subtitle alignment options\", \"checked\": false}, {\"feature\": \"Subtitle font style and size selection\", \"checked\": false}, {\"feature\": \"Dynamic subtitle that changes based on user input\", \"checked\": false}], \"input_token_count\": 425, \"output_token_count\": 87, \"time_taken\": \"0:00:02.621749\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024080407",
+        "timestamp": "2024-09-05T08:04:08",
+        "role": "user",
+        "source": "user",
+        "content": "add a nice copy",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024080407",
+        "timestamp": "2024-09-05T08:04:09",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Okay, I'll work on adding a nice copy for you.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024080407",
+        "timestamp": "2024-09-05T08:04:15",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of copy are you envisioning for your app?\", \"option1\": \"A creative and engaging copy\", \"option2\": \"A concise and informative copy\"}, {\"question 2\": \"Where would you like the copy to be positioned?\", \"option1\": \"Above the main content\", \"option2\": \"Integrated within the main content area\"}], \"input_token_count\": 534, \"output_token_count\": 84, \"time_taken\": \"0:00:01.645223\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024080407",
+        "timestamp": "2024-09-05T08:04:18",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a descriptive paragraph below the title\", \"checked\": true}, {\"feature\": \"Include a call-to-action button\", \"checked\": false}, {\"feature\": \"Implement a quote or testimonial section\", \"checked\": false}, {\"feature\": \"Utilize bullet points for key features\", \"checked\": false}, {\"feature\": \"Add a background color for the copy section\", \"checked\": true}], \"input_token_count\": 488, \"output_token_count\": 95, \"time_taken\": \"0:00:01.191646\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024081139",
+        "timestamp": "2024-09-05T08:11:40",
+        "role": "user",
+        "source": "user",
+        "content": "give a nice coyp",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024081139",
+        "timestamp": "2024-09-05T08:11:41",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I\u2019d be happy to help, please provide the details for your project.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024081216",
+        "timestamp": "2024-09-05T08:12:16",
+        "role": "user",
+        "source": "user",
+        "content": "a nice title",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024081216",
+        "timestamp": "2024-09-05T08:12:17",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Let's brainstorm a fitting title for your project.",
+        "metadata": {}
+    },
+    {
+        "id": "guest05092024081216",
+        "timestamp": "2024-09-05T08:12:21",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you envision for your subtitle?\", \"option1\": \"Catchy and engaging\", \"option2\": \"Informative and straightforward\"}, {\"question 2\": \"Where would you like the subtitle to be positioned in relation to the title?\", \"option1\": \"Directly below the title\", \"option2\": \"At the top of the screen\"}], \"input_token_count\": 525, \"output_token_count\": 87, \"time_taken\": \"0:00:01.534670\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "guest05092024081216",
+        "timestamp": "2024-09-05T08:12:24",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a creative and engaging subtitle\", \"checked\": true}, {\"feature\": \"Implement dynamic font size adjustments for the title\", \"checked\": false}, {\"feature\": \"Include an option for a background color behind the title\", \"checked\": false}, {\"feature\": \"Create a shadow effect for the title to enhance visibility\", \"checked\": false}, {\"feature\": \"Add an animated entrance for the title on app load\", \"checked\": false}], \"input_token_count\": 479, \"output_token_count\": 105, \"time_taken\": \"0:00:01.229794\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1725465107"
+        }
+    },
+    {
+        "id": "project_init",
+        "timestamp": "2024-09-04T17:51:47",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Can you describe the project a bit more?",
+        "metadata": {}
     }
 ]
